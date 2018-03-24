@@ -15,5 +15,5 @@ Another Self-Balancing Arduino Robot
 - M3/M4 screw and nuts
 
 ### Inspiration
-https://www.youtube.com/watch?v=eokwYIlTxFw
-https://www.youtube.com/watch?v=f0pVHgVlHgA
+- https://www.youtube.com/watch?v=eokwYIlTxFw
+- https://www.youtube.com/watch?v=f0pVHgVlHgA
