@@ -20,3 +20,6 @@ Another Self-Balancing Arduino Robot
 - https://www.youtube.com/watch?v=f0pVHgVlHgA
 - https://maker.pro/projects/arduino/build-arduino-self-balancing-robot
 - https://wiki.aalto.fi/display/MEX/Self-balancing+robot
+
+### Alternative Parts
+- [Gyro GY-LSM6DS3](https://www.banggood.com/fr/3pcs-GY-LSM6DS3-1_71-5V-3-Axis-Accelerometer-Gyroscope-Sensor-Module-Inertial-Breakout-Board-SPII2C-p-1269438.html?rmmds=myorder&cur_warehouse=CN)
